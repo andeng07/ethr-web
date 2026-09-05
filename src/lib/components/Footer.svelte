@@ -41,5 +41,6 @@
                 </nav>
             </div>
         </div>
+        <div class="lg:hidden"><!-- Filler Div --></div>
     </div>
 </footer>
