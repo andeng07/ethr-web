@@ -1,5 +1,6 @@
 <script lang="ts">
     import logo from "$lib/assets/logo-v2.svg";
+    import Footer from "$lib/components/Footer.svelte";
     import Header from "$lib/components/Header.svelte";
     import "../app.css";
 
@@ -11,7 +12,10 @@
     <title>etheralinks</title>
 </svelte:head>
 
-<div class="font-nohemi font-normal">
-    <Header/>
-    {@render children()}
+<div class="flex min-h-screen flex-col font-nohemi font-normal leading-none max-w-[1920px] m-auto">
+    <Header />
+    <main class="flex-1">
+        {@render children()}
+    </main>
+    <Footer />
 </div>
