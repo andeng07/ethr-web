@@ -7,7 +7,7 @@
         <div><!-- Filler Div --></div>
 
         <div>
-            <h1 class="text-8xl">©ETHR.</h1>
+            <h1 class="text-7xl md:text-8xl">©ETHR.</h1>
         </div>
 
         <div class="flex w-full flex-col items-center justify-center gap-8 text-md lg:flex-row">
