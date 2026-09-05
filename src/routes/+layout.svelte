@@ -9,7 +9,7 @@
 
 <svelte:head>
     <link rel="icon" href={logo} />
-    <title>etheralinks</title>
+    <title>ethrealinks</title>
 </svelte:head>
 
 <div class="flex min-h-screen flex-col font-nohemi font-normal leading-none max-w-[1920px] m-auto">
