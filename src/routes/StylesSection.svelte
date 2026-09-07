@@ -31,7 +31,7 @@
 
                         <AccordionContent>
                             <div class="flex flex-col items-start gap-4">
-                                <p class="text-ink">
+                                <p class="text-ink leading-[1.5]">
                                     {description}
                                 </p>
 
